@@ -1,0 +1,56 @@
+
+// Buildscript block is executed first. Therefore extra properties are not defined yet.
+buildscript {
+    // Extra properties (user defined)
+    project.ext {
+        kotlinVersion = '1.7.10'
+    }
+
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlinVersion"
+    }
+}
+
+plugins {
+    id 'java'
+    id "org.jetbrains.kotlin.jvm" version "$kotlinVersion"
+}
+
+group 'net.aveyon'
+version '1.0-SNAPSHOT'
+
+tasks.withType(org.jetbrains.kotlin.gradle.tasks.KotlinCompile).all {
+    kotlinOptions {
+        jvmTarget = "11"
+    }
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    def jUnitVersion = '4.13.2'
+    def mockitoVersion = '4.7.0'
+    def mockitoKotlinVersion = '4.0.0'
+
+    // Helpers, Collections etc.
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlinVersion"
+
+    // Testing
+    testImplementation "junit:junit:$jUnitVersion"
+    // testImplementation "org.junit.jupiter:junit-jupiter-api:$jUnitVersion"
+    testImplementation "org.mockito:mockito-core:$mockitoVersion"
+    testImplementation "org.mockito.kotlin:mockito-kotlin:$mockitoKotlinVersion"
+}
+
+test {
+    useJUnitPlatform()
+}
+
+task cleanBuildDir(type: Delete) {
+    delete rootProject.buildDir
+}

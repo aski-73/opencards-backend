@@ -1,0 +1,2233 @@
+Vietnamese Specials
+
+Classifier
+
+Người (for people)
+
+Quả (ctx: Süden) /trái (ctx: Norden) (for fruits)
+
+Chiếc (Fahrzeuge, items of a set)
+
+Con (Tiere)
+
+Cái (most inanimate objects)
+
+Plural
+
+Các, những - plural von darauffolgendem wort
+
+
+
+Russian Specials
+
+бы
+
+Если бы...., то... VERB бы...
+
+Если бы он плоха играл футбол, то не стал бы футболистом
+
+Prepositional Case: используем когда говорим о месте
+
+Accusative Case: используем для направления (where we move to), куда мы движемся
+
+Ли (Ob, if): Я Aне знаю, хочу ли я кофе. (falsch: я не знаю если хочу кофе)
+
+
+
+Allgemein
+
+Mục tiêu / mục đích (mục tiêu học [tập] của bạn ka gì?) - goal (what are your learning goals?) -  цели (Каковы ваши цели обучения?)
+
+Làm ơn, hãy - please - пожолуста
+
+Thật - really (eg. Happy) - очень
+
+Rất/khá - really (like in really much) / very (ziemlich) - очень
+
+Cũng - also - тоже
+
+Có đó - there is - там
+
+Mỗi / mọi - every - каждый
+
+Cùng / với / bằng - with - с
+
+Bắt đầu (Sự bắt đầu) - begins / starts (beginning) - начинается (начало)
+
+Đi ngủ - go to bed - ляг/лягте
+
+công cộng (thư viện công cộng) - public (public library) - общественный, публично (общественная библиотека)
+
+Bờ - shore - берег, берегу
+
+lộn ngược (bức ảnh đó lộn ngược) - upside down (that picture is upside down) - вверх ногами (эта картина вверх ногами)
+
+Thảo luận (sự thảo luận) - to discuss (discussion) - обсудить (обсуждение)
+
+Hơn (tốt hơn, xấu hơn, nhan hơn) - than/more (better, worse, faster) - чем (лучше, худший, Быстрее)
+
+Như - as - [так] как
+
+Nào nhất - the most - больше всего / самый
+
+Ít hơn - less ... than - менче чем
+
+Về (Về cái gì) / về nhà - about (what about) /  going home - O ( o чем) / домой
+
+Đường - road - дорога
+
+Đến - to - к(Ort), до (Zeit)
+
+Thành công - success - успех
+
+Đồng ý - agreed, agreed - (мы) договорились, (я с ним) согласен
+
+Được biết - it is known - известно
+
+Bận - beschäftigen, play, study, doing - заниматься (z. B. теннисом)
+
+Sự dịch - translation - перевод
+
+Đừng - don't - не
+
+Chúc mừng - congratulations - посдравляю
+
+Thuyết phục - to convince - уговорить (я уговорю)
+
+Sự thật - truth - прав
+
+Sự ủng hộ, hỗ trợ - support - поддержки
+
+Người lạ - stranger - незнакомца
+
+Thông báo - notification - оповещения
+
+Người già - elderly, old people - старых, стариков
+
+app - app - приложение
+
+Chất lượng - quality – качество
+
+Số lượng - quantity - каличество
+
+Sự vật - Thing[s], Ding[e] - вещи
+
+Sự việc - Ereignisse – случай
+
+Nơi, chỗ - place - места
+
+Ý nghĩa - Meaning, Bedeutung - смысл, смысла
+
+Nghĩ - mind, Gedanken - мысли (своих мисляах)
+
+Hành động - actions, Handlungen - действия (своих действиях)
+
+Sự kiện - event - событие
+
+Sự phát triển  –  development – события
+
+Lúc nào đó – irgendwann - когда-то, когда-нибудь
+
+Cái gì đó - irgendwas - что-то, что-нибудь
+
+Như thế nào đó - irgendwie - как-то, как-нибудь
+
+Ở đâu đó - irgendwo - Где-то, где-нибудь
+
+Bất kỳ ai / (một) ai đó - irgendwer - кто-то, кто-нибудь
+
+Không ai – nobody – никто
+
+Không chỗ nào cả, in Gedichten: Hư không -  nowhere – нигде
+
+Ai đó - somebody – кто-то
+
+Chỗ nào đó - somewhere – где-то
+
+Kiểu như - somehow – как-то
+
+Cả hai - both - оба, обе (im Satz) / И то, и другое (als direkte Antwort)
+
+Nhà - house - дом
+
+Vẫn (toi van khong lam nay) , nữa (kann zsm genutzt werden: vẫn … nữa) – noch, yet (ich habe es noch nicht gemacht) – ещё (я ещё не сделал)
+
+Còn [hơn nữa] – noch, additionally – ещё
+
+Cảm ơn - thanking, thanked, bedanken - поблогодорить (Я поблагодарил отца)
+
+Không may - unfortunately, leider, bedauerlicherweise - К сожалению
+
+Phòng tập thể dục - gym - спортзал
+
+Sai, Lỗi, nhầm lẫn - mistake - ошибка
+
+Trường hợp ngoại lệ - Ausnahme, Exeption - исключение
+
+Kinh nghiệm - experience - опыт
+
+Mơ ước - dream - сон
+
+Tự - by myself, on ones own – самостоятельно
+
+ Sự nhầm lẫn – Verwechslung, Verwirrung – путаница
+
+Thuận lợi, Điều bất lợi - advantage, disadvantage – преимущества, недостатoк/недостотки
+
+Quà (tôi có một món quà) – gift (I have a gift) – подарок (у меня есть подаок)
+
+Giáng sinh (giáng sinh hàng) - Christmas (christmas market) – Рождество
+
+Cuộc trò - conversation – разговор
+
+Theo dõi - track, Spur - след
+
+Đam mê (anh ấy làm nó với đam mê) – passion (he is doing it with passion) – страсть (Он делает это со страстью)
+
+Trách nhiệm - responsibility - ответственность
+
+Lời khuyên - Ratschlag, advice – совет
+
+Số phận - destiny - судьба
+
+Vấn đề (Vần đề giao tiếp, Gặp khó khăn trong vấn đề = gặp khó khăn.) –  Problem (Probleme beim Kommunizieren) – проблема  (проблемы/трудности с общение)
+
+Lời đề nghị - offer – предложение
+
+Cơ hội – chance -  шанс, возможнасть
+
+Pháo hoa/pháo bông – firework –  салют 🎆
+
+Cuộc hẹn  - appointment – прием
+
+Tính tiền – bill – шёт
+
+Mạng – internet – интернет
+
+Đội, nhóm, tổ – Team – команда
+
+Chìa khoá – key – ключ
+
+Mục tiêu – goal – цель
+
+Sự ngẫu nhiên, sự tình cờ - coincidence -  Совпадение
+
+Ngạc nhiên, Bất ngờ - surprisesurprised, surprise –… сюрприз 🤭
+
+Cá cược -  bet -  пари (держать пари)
+
+Năng lượng (tôi chúc bạn 1 ngày tràn đầy năng lượng) – Energу (I wish you a day full of energy)  - энергии (Желаю тебе дня, полного энергии)
+
+Lý do –  reason – причин
+
+dộng lực (tôi chỉ có thể làm X nếu tôi có động lưc) Motivation (I can only X when I am motivated) – мотивация (я могу X только когда у меня есть мотивация)
+
+Bổn phận,bắt buộc (ờ VN sinh viên bắt buộc phải đi 1 tháng quân đội) -  duty, Pflicht, obligated (in VN students are obliged to go to the military) – долг, обязанност, обязанный ( в Вьетнаме студенты обязаны ходить в армию)
+
+Vớ Vần – trash -  мусор 🚯
+
+
+
+Personalpronomen
+
+Chúng tôi, chúng ta, tụi anh/em – we -  мы
+
+
+
+
+
+Familie,Beziehungen, Menschen
+
+Cuộc sống – life – жизнь
+
+Người phụ [nữ] - woman, female – женщина, женский 👩
+
+[Mối] quan hệ - relation/relationship – отношениe
+
+Tính yêu – love – любовь
+
+Hôn – to kiss – Целовать
+
+Lãng mạn – romantic – романтический
+
+Ba mẹ / cha mẹ / bố mẹ / ba má - parents -  родители
+
+Bà (Bà nội. Bà ngoại) – grandma (Grandma father side. Grandma mother side) – бабушка (бабушка по отцовской линии. Бабушка по материнской линии)
+
+Ông – grandfather -  дедушка
+
+Bố / cha – father/ dad – отец
+
+Mẹ - mother / mom – мать
+
+Đứa Con – child, children – ребёнок, дети 🧒🏻
+
+Con út – youngest Child -  самый младший
+
+Chị/Anh cả - oldest brother/sister/Child -  самый старший
+
+Cô gái – girl – девочка
+
+Câu bé – boy -  мальчик
+
+Em/anh trai – younger/older brother – младший/старший врат
+
+Em/chị gái – younger/older sister – младшая /старшая сестра
+
+Ruột  / anh [chị] em ruột – siblings -  братья и сестры aussprache: сёстры
+
+Cháu trai – Neffe, nephew – племянник
+
+Cháu gái - nichte, niece – племянница
+
+Cháu trai/gái -  grandchild, grandson/granddaughter- внук/внучка
+
+Bạn trai/gái – boy/girlfriend – парень / девушка
+
+Bạn bè (bạn thân) - friend (best friend) -  друг (самое лучший друг)
+
+Hoàng tử  - Prince – принц 🤴
+
+Công chúa – Princess – принцесса  👸
+
+Hôn nhân – marriage – браk
+
+Đám cưới – wedding – свадьба 💒
+
+Lấy vợ, cưới vợ  (for men) / lấy chồng, cưới chồng (for women) / kết hôn (for All) - to marry – идти за мужем / жениться
+
+Vợ - wife – Жена
+
+Chồng – husband – муж
+
+Gia đình – family – семя
+
+Các con – children – дети
+
+Họ hàng - Relatives – родственники
+
+Bé gái/trái – baby girl/boy – ребёнок
+
+Sinh nhật – birthday – день рождения
+
+Sinh ra – born – родился
+
+Lớn lên (tôi lớn lên ở Đức) – grow up, aufwachsen (I grew up in germany)– вырастать (Я вырос в Германии)
+
+Thanh thiếu niên – Teenager – подросток
+
+Quen biết/làm quen với nhau – to get to know each other  - познакомиться
+
+Làm quen – to get to know, kennen lernen -  познакомиться
+
+Với nhau, cùng nhau (họ cùng nhau xuất bản một quyển sách) – together (they publish a book together) -  вместе (Они вместе издают книгу) 👫
+
+Quen thuộc – familiar, vertraut – Привычный
+
+Quen X – to be used to X – привык X
+
+Chia tay – Abschied, Farewell - прощание
+
+
+
+Körper, Hygiene und Gesundheit
+
+Phần thân/cơ thể -body, Körper – тело
+
+Cái đầu – head -  голова 🙂
+
+Giọng – voice – голос
+
+Trái tim – heart – сердца ❤️
+
+Tai – ear – ухо, уши 👂
+
+Cở, họng (tôi bị viêm họng, Tôi bị đau họng) – throat (I have a sore throat) – шея, горло (моя горло болит)
+
+Vòng/cánh tay – Arm – рука 🦾
+
+Tay – Hand – рука 🤚
+
+Vú – breast -  грудь 🤱
+
+Dôi chân – leg[s] – ноги 🦵
+
+Chân – foot – ного, ноги 🦶
+
+Thuốc – medicine – лекарства
+
+Ho – to cough, husten – кашлять (кашель) 😷
+
+Ốm  – ill – больной  🤒
+
+Sốt – fever – температура 🤒
+
+Chóng mặt (tôi chóng mặt) – dizzy – голова кружится (У меня кружится голова)
+
+Nhức cái đầu, đau đầu - headache - голова болит
+
+Đau răng - toothache – зубы болят
+
+Xe cứu thương – ambulance – скорая 🚑
+
+Băng cá nhân – plaster – пластырь
+
+Môi – lips – губы 👄
+
+Miệng – mouth – рот
+
+Mặt – face – лицо
+
+Mắt – eyes – глаза 👀
+
+Mũi – nose — нос  👃
+
+Xương – bone – кость
+
+Lược,  bàn chải – hair brush – расчёска
+
+Rửa (tôi rửa mặt tôi) – to wash (I wash my face) – мыть (я мою лицо)
+
+Kem chống nắng – sun creme / sunscreen – солнцезащитный крем
+
+Kem – creme - крем
+
+Chống - against - против
+
+Đổ mồ hôi – sweating, schwitzen – потеть
+
+Bình xịt côn trùng – insect spray -  Спрей от насекомых
+
+
+
+
+
+
+
+Schule, Studium, Lernen, Lexikа
+
+Trường - school - школа
+
+Người dạy/giáo viên/thầy [giáo dạy]/thầy giáo/cô giáo (ctx: female teacher) - teacher – учител
+
+Dạy – to teach, lehren – учить
+
+Học sinh - student – Ученик
+
+Sinh viên -  student in university — студент
+
+Giáo dục/học hành - education - образование
+
+Học đại học - to study [in university] – изучать
+
+Cấp 1 – elementary school - начальная школа
+
+Cấp 2 -  middle school – … школа
+
+Cấp 3 - high school - … школа
+
+trường đại học - University – университет
+
+bài tốt nghiệp đại học – Bachelor – диплома
+
+Bài tốt nghiệp thạc sĩ – Master – мастер
+
+Tốt nghiệp – to graduate – закончить
+
+Bài luận văn – thesis -  диссертациа
+
+Chủ đề - topic – тема
+
+lớp học - school class - класс
+
+Để [thầy] chấm điềm – to grade – Оценить
+
+Sách giáo khoa - textbook - учебник 📚
+
+Giở sách ra – Open the book – откривайти книгу
+
+Kỳ học - Semester - семестр
+
+(Bày) thi, Bài kiểm tra – exam, test – экзамен/Контрольная работа
+
+Vượt qua thi - to pass an exam – здать экзамен
+
+Bày thuyết trình – presentation – Презентация
+
+Học nghề - Ausbildung/Lehre machen – пройти обучение
+
+Câu - sentence (ctx: Text) – предложения (heißt auch Vorschlag), приговор
+
+Nghỉ phép  - holiday, Urlaub – отпуск
+
+Ký nghỉ - Holiday, Feiertag – отпуск
+
+từ (ngữ) - word – слов
+
+Vốn từ - Vokabel - слов
+
+[Quyển] từ điển – dictionary – словар
+
+Môn học – class - предмет
+
+Điều - thing - предмет
+
+Ý kiến – opinion/impression - мнение/мнения
+
+Thời gian biểu/ Thời khóa biểu - schedule/timetable – расписание
+
+Tập thể dục - sport excersice  – спортивные упражнения
+
+Bài tập -  exercise - упражнение
+
+Dự án [chỗ] – Projekt - проект
+
+Công nghệ thông tin - computer science – Информатика
+
+Tất cả - all – все
+
+Máy tính – computer -  компьютер 🖥
+
+Bàn phím – keyboard – клавиатура ⌨
+
+Màn hình – screen - экран
+
+Bạn học – school friend -  Школьный друг
+
+
+
+Rechtlich, Detektiv
+
+Bằng chứng – evidence – доказательства
+
+Tội phạm/Ác nhân — verbrecher/criminal — преступник
+
+Tội ác – Crime, Verbrechen – преступление
+
+Siêu nhân – hero – герой
+
+Quy định – Regulation -  Регламент
+
+
+
+Natur (Thiên nhiên, природа)
+
+Môi trường – Umwelt -  Окружающая среда
+
+Khu rừng – forest -  лес
+
+Cây - tree - дерево
+
+Gỗ - wood – дерево
+
+Núi – Mountain – гора , горы ⛰
+
+Hang – cave – пещера
+
+Đảo – Island - Остров   🏝
+
+[Bãi] biển -  beach - пляж 🏖
+
+Cát (bãi biển có cát không?) - Sand (is it a sand beach?) – писок (это песчаный пляж?) 🏜
+
+Biển – sea -  море
+
+[Đại] dương – ocean – море
+
+Làn sóng - wave – волнa 🌊
+
+Quang cảnh – landscape, Landschaft – пейзаж
+
+Trồng – anpflanzen, to plant - сажа́ть
+
+
+
+Kọnunktion
+
+Hoặc – or, oder – или
+
+Và – and, und – и
+
+Tại vì sao/bởi vì/vì thế - because of [the fact] - Из за [того что]/потому что . (Andere Bedeutung im russischen: physisch von etwas gehen: подошли из за угла, вставать из за столом)
+
+Nhưng [mà] - but - но
+
+Để - in order to – чтобы
+
+Liệu – whether – Есть ли
+
+Trong khi - while, meanwhile - между тем, пока (пока я был на работе, она приготовила ужин)
+
+nếu - whether/if he wanted - не хочет ли он (Анна спросила дедушку, не хочет ли он пообедать с ней)
+
+Nếu không thì – alternatively, sonst – а то
+
+Cho nên/vậy nên/vì thế  – deswegen, therefore  - Из-за этого
+
+Vậy (chị tôi cần cô ấy như cô ấy cũng vậy) – so (my elder sister needs her like she does) – так как (мая старшая сестра нужна её так как она её)
+
+Cho dù (anh ấy sẽ không ăn này cho dù bạn nấu rất ngon) – even if (he won’t eat it, even if you cook it good), obwohl – Даже если (он не будет есть это даже если ты вкусна готовишь)
+
+Ngoại trừ - except – кроме
+
+Mỗi khi – when ever – всякий раз, когда
+
+Vừa X  vừa Y - sowohl X als auch Y / both X and Y – и X, и Y
+
+Việc – that (dass) – что
+
+Mặc dù/mặc dầu/đồng nghĩa – obwohl, even though – хатя
+
+Tuy nhiên – however – Однако
+
+Trừ khi (bạn sẽ thất bại trừ khi bạn cố gắng) – unless, außer (you are going to fail unless you try) -  пока не (ты потерплиш неудачу пока не попробуешь)
+
+
+
+Verben (глагол (Im Sinne der Syntax), действия (eine Aktion))
+
+Chỉ (anh ấy chỉ cho tôi Làm thế nào để đi đến phòng tắm) - to show -  показать
+
+Cần – to need – нужно
+
+Tập trung – to focus / to concentrate – Концентрироваться
+
+Trả [tiền] - to pay – платить
+
+Miễn phí (chi phí làm..) – free, kostenlos (the cost of making…) – Бесплатно
+
+Đưa (Hôm nay em đưa bà nội đi tàu điện) – to give/ to bring (I took her by train) - [по] дать  (я ехал с её на поезде)
+
+Ngồi – to sit - сесть, сидеть
+
+Đứng - to stand – ставать
+
+Chạy – to run -  бегать
+
+Tới – to arrive – приезжать, прибывать
+
+Nói chuyên, kể - say, tell – говорить, рассказать
+
+Truy vấn – persuade, talk into – уговаривать, убеждать
+
+Nhìn thấy – to see, looking - видит смотреть
+
+Xem - watch/watching – смотреть
+
+Dám (bạn dám nó?, tôi không dám thử) – to dare, trauen (do you dare?, traust du dich?) – доверят, сметь (вы смеете?, я не доверяю себе)
+
+Kiếm - to get – палучить
+
+Phân biệt (cô ấy có thế phân biệt cờ Đức và cờ Canada) – to distinguish (she can distinguish the German and Canadian Flag) -  отличать (она может отличить флаг Германии и Канады)
+
+Giải quyết - to solve – решат
+
+Giải thích (giảy thích công thức) , kể (kể chuyện) – to explain (to explain a form, to explain a Story) -   объяснить (объяснить форму, объяснить историю)
+
+Nghĩ - to think - считать
+
+[Cảm] thấy – to see/to feel, to hug – видеть, обнимать,
+
+Thay đổi - to change - изменать
+
+Chơi - to play/playing - играть
+
+Cố gắng – trying / to try - попробовать/питаться
+
+... - mit etwas auseinander setzen - Разбираться
+
+Sử dụng, dùng - to use - пользоватся
+
+Quản lý – to manage – управлять
+
+(Sự) Lựa chọn - to choose (selection) - выбирать (выбор)
+
+(Dự) định, kế hoạch, lên kế hoạch - to plan (plan) – Планировать (план)
+
+Giới thiệu - to recommend – предложить
+
+Giời thiệu, cho vào (tôi xin giới thiệu với bạn ông Müller) – to introduce (may i introduce you to Mr.. Müller? – представлять (Могу я познакомить вас с мистером Мюллером/ представлять вам мистер мюллеру ?)
+
+Mời (gọi) , (thư) mời (mời bạn vào) - to invite, invitation ([we invite you to come inside] - приглашать, приглашение  (захади)
+
+Thăm - to visit - навещать, посещать, проведать
+
+(Sự) nghĩ là - to mean (meaning) - значит (смысл, значения)
+
+Nghĩ - denken - думать
+
+Sống - live (wo lebst du) - жить
+
+được tụ tập - versammeln, meet -...
+
+liệt kê (danh sách) - to list, aufzählen (a list) – перечислить (список 📃)
+
+Gửi - to send - отправлять
+
+Đi ngủ - to go to bed - ложиться спать
+
+Mơ - to dream - мечтать
+
+Lời lên - grew up - вырастать (: выросла, вырос)
+
+Lấy - to take – принимать, брать, взять
+
+Tắm - to take a shower - принимать душ
+
+in - print - напечатать, напечатай
+
+... - formalize / beantragen - оформлять
+
+Hát - to sing - поёт, поет, пет, поют (спой)
+
+Ủng hộ - the support, to support - Служба поддержки, Поддерживать
+
+Chụp Ảnh/tranh - taking pictures – фотографировать
+
+Hình ảnh – picture – фотография
+
+Đang so sánh - Comparing/to compare - сравнивать, сравнение
+
+Xứng đáng [anh ấy không xứng đáng với cô ấy] - to deserve [he doesn‘t deserve her] – Заслуживать [он ее не заслуживает]
+
+Bay - fly – летать
+
+Tìm được – to find – найти
+
+Tim ra (tôi muốn tím ra con meo của tôi ngủ đâu vào đêm), mới biết – find out ( I want to find out where my cat sleeps at night) -узнать (Я хочу узнать, где моя кошка спит ночью)
+
+Tìm kiếm - to search – искать
+
+Tìm hiểu – to learn about - узнать
+
+Bơi - to swim - плавать
+
+Quyết định - to make a decision - принять решение
+
+Lái - to ride (a bike, motorcycle) - ездить, ехать
+
+Cắt tóc - cut hair - подстричь волосы
+
+Bấm - press (on button) - нажать (на кнопку)
+
+Làm - to perform, make, accomplish – совершать, делать
+
+Nhớ  lại - to miss (like: I miss you) - скучать (я скучаю по + Dativ)
+
+Tôi hi vọng/mong - I hope - я надеюсь
+
+Nhớ - to remember - вспоминать
+
+Thêm vào, kèm theo, cho (sau đó bạn-ít nước mắm và đường) to add (then u add a little bit of fish sauce and sugar) – добавлять (после этого вы добавляйте немного fish sauce и сахара
+
+Loại bỏ, xoá - to remove, to delete – снимать, удалять, убирать
+
+Lái - to drive - водить
+
+Hoàn thành – to end, beenden – закончить
+
+Kết thúc (Kết thúc từ) – to finish (a class, a relationship), end, ending (word ending) – закончить, окончания, окончание (окончание слова)
+
+Dừng - to stop, beenden, aufhören (aufhören zu rauchen) - бросить/прекратить/прекращать (прекратить курить, бросить курить)
+
+Đoán [xem] (Đoán [xem] đó là gì.) - to guess (guess what that is) – угодить
+
+(Sự) vội vàng - hetzen (eile), to haste (haste) – спешать
+
+Từ bỏ - to quit (to quit a job) – бросить/покидать/увольнять (бросить работу, уволиться с работы)
+
+Khoe khoang  (Người thích khoe khoang, Đừng khoe khoang) - to show off (smo who is showing off, don’t show off) – выпендриться (выпендрёжник, не выпендриваться)
+
+Để tạo ra - to create – творить
+
+Thức/Ngủ dậy – to Wake up – вставать, просыпаться ( я проснулся)
+
+Không được nản lòng/bỏ cuộc giữa chừng – to give up – бросить
+
+Giống (Tôi), Trông (trông đau lắm) – looks like (me), looks (looks painful) – похош на (меня), (Выглядит болезненно)
+
+Đặt (chỗ/bàn) - to book (a place/table) - забронировать (место / столик)
+
+Gọi – to make an order – заказать
+
+Đi vào, Ra khỏi - einsteigen, aussteigen - садиться, вылазит
+
+Dọn dẹp – to clean, aufräumen – убирать, чистить
+
+Ngưỡng mộ - bewundern, admire – Восхищаться
+
+Liệt kê – to list – перечислить
+
+(Sự) tôn trọng – to respect (respect) – уважвть (уваженине)
+
+Thừa nhận - to confess / admit – признавать
+
+Nói dối (nằm) – to lie, lügen (eine Lüge) – обманывать  (ложь 🤥)
+
+Nằm – to lie (liegen) – лежать
+
+Mắng – to scold – ругать 🤬
+
+(Sự) Tin (tưởng) – to trust (trust)  - Доверять/ верить (доверие, уверенность )
+
+Quan tâm đến – to care about – ухаживать, Заботиться о
+
+Gọi điện thoại – to call – звонить
+
+Quên – to forget – забывать
+
+Diễn/Miêu tả - to describe – описывать
+
+Để dành thời gian – To spend time – Проводить время
+
+Để kéo – to pull – тянуть
+
+Tận hưởng – enjoy – наслаждаться
+
+Cắn – to bite – Кусать
+
+Nhận ra – to realize – реализовать, осозновать
+
+Trừng phạt – to punish – наказать
+
+Có giá (benutzt man nur in Aussagen, zB das Handy kostet 300Eur) – it costs – это стоит
+
+Luyện tập – to practice – Упражняться
+
+Phát hiện – to discover – узнать
+
+Trang trí – to decorate – украсить
+
+Bĩu môi – to smole – дуться 🙎
+
+Tặng, biếu (ctx: biếu ist formal) – to gift – дарить
+
+Nghỉ ngơi [nhé] – to rest, have a rest, to relax – отдохнуть
+
+Hết (hết rồi) - to run out (it’s over/ run out in ctx of nothing in Stock anymore) -  закончится (продана)
+
+Trở lại/trở về/quay lại – to return, go back – вернуться
+
+Đối mặt với (tôi không muốn đối mặt với gia đình tôi sau khi tôi thất bại) – to face (I dont want to face my family after i fail) –  смотреть в лицо (Я не хочу смотреть в лицо своей семье после того, как потерплю неудачу)
+
+Thận nhé – to be careful – будьте внимательны, Будь осторожен
+
+Mang theo – to take with me - брать сабой
+
+Câu nói đùa, nói đùa (tôi chỉ là nói đùa) – joke, joking (I am just joking) – шутка (я просто шучу)
+
+Thắng, vô địch (Mong năm nay Đức sẽ vô địch) – to win – выиграть, победить
+
+Mất – to Lose (ctx: smth) – терять (ctx: вещи)
+
+Thua – to Lose (a game) – проигрывать (игру)
+
+Bán – to sell -  прадавать
+
+Mua – to buy – покупать
+
+Chuẩn bị [vào] -  to prepare [on] – Подготовить  [на]
+
+Cười, buồn cười/hài – to laugh, funny – смеётся (Почему ты смеешься), смешно 😄
+
+Khóc [vậy] – to cry – плакать 😿
+
+Để đặt tên – to name – назевать
+
+Nhắc lại (Ôn lại) – to repeat (Wiederholung, repitition) – Повторять (повторенине)
+
+Có, gặp(ctx abhängig!) [tôi gặp khó khăn trong giao tiếp] - To have [i have difficulty in communication] – иметь (nicht phys. Dinge), у Х есть [у меня трудности в общении]
+
+Nhắn tin – texting, SMS schreiben – смс
+
+Bỏ - to leave out, to cancel, to revoke – отменить
+
+(sưu) tầm, thu vỏ - to collect - собирать
+
+Đón (tôi sẽ/đã đón bạn) – to Pick (smbd) up (I will Pick u up, I picked u up yesterday) – собирать (я заберу тебя, Я забрал тебя вчера )
+
+Giao – to deliver – доставлять
+
+Tổ chức (ctx: Du veranstaltest die Party) (tổ chức sinh nhật 15 tuổi) / ăn mừng (Chúng ta ăn mừng sinh nhật bạn) – to celebrate (celebrate the 50th birthday) (we celebrate your birthday) – отменить, Праздновать (отменить пятнадцатый день рождения) (Мы празднуем твой день рождения)
+
+Bắt buộc ai làm gì – to force smbd to do smth , aufzwingen – заставлять
+
+Đem – to carry, to take/bring with himself – Приносить
+
+Theo đuổi (tôi ngưỡng mộ những người theo đuổi đam mê của mình/họ) – to follow (I admire people who follow their passion) – Следовать (Я восхищаюсь людьми, которые следуют своей страсти)
+
+Vẽ - to draw -  рисовать 🖍
+
+
+
+
+
+
+
+Modalverben
+
+Nên – should – gibt es so nicht. Мне это делать? Soll ich das machen?
+
+Phải – must /have to – должен
+
+Adverb (наречие)
+
+Như, tưởng tự, giống - ähnlich - подобно
+
+Chi tiết - In Detail – пдробно
+
+Gần như, suýt – almost, nearly, - почти
+
+Gần đây – recently – Недавно
+
+Với mới / chỉ / duy - just, nur – только, только что, просто
+
+Từng – je, jemals, ever – gibt’s nicht im russischen. Ist das gleiche wie „irgendwann“, also когда-нибудь
+
+Ngoài ra - außerdem - тем более
+
+Ngoài việc (bạn thích làm gì ngoài việc bơi) -besides (What do  you like to do besides swimming ) – кроме (Чем вы любите заниматься помимо плавания)
+
+Cùng nhau, chúng (với) nhau (chúng tôi chỉ gặp để ăn cùng nhau) - Together (we just meet in order to eat together – вместе (мы проста встретимся чтобы есть вместе) 👫
+
+Cuối cùng – finally -  наконец [то]
+
+Nói chung – generally [speaking] - вообще/обично
+
+Xung quanh -  around -  во круг
+
+Hoàn toàn (tôi hoàn toàn hiểu) - at All (I don‘t understand at All), completly-  совсем (я совсем не понимаю)
+
+Chắc, có lẽ – perhaps, maybe – возможно, может быть
+
+Dù sao -  anyway – в любом случае
+
+
+
+
+
+Demonstrativpronomen
+
+Diejenigen – những đứa – эти
+
+Này/đây – this – этот
+
+Kia/ấy/đó/đấy – that – тот
+
+
+
+Eigenschaften, Adjektive (прилагательное)
+
+Tự phát – spontanously -  Спонтанно
+
+Cần thiết -  Necessary, required, Essential -  нужно, Необходимый
+
+Đơn giản, giản đơn - simple - простой
+
+Dễ (hơn), Dễ dàng - easy (easier), easily - легко (легче), без труда
+
+Khó (hơn) - hard(er) - тяжело (тяжелее)
+
+bình thường – normal – нормально
+
+Nhỏ, thấp - small - малинкое
+
+Ngắn, lùn - short – короткий
+
+Trẻ -  young -  молодой
+
+Già – old – старий
+
+Béo -  fat -  толстый
+
+Gầy – skinny/thin – Тонкий
+
+Rộng – wide – широкий
+
+Nhanh – fast -  быстро
+
+Chậm – slow – медленно
+
+Chật hẹp – narrow – узкий
+
+Trống rỗng – empty – пустая
+
+No -  full – полная
+
+Mạnh – strong – Сильный
+
+Yếu (ớt) - weak – Слабый
+
+Dài, dài nhất – long, the longest - длиний/долгое (Kontextabhängig, z. B sự nghiệp dài = долгоя карьера), camый длинный
+
+Lớn/to/rộng (ctx: phòng, nhà) (nhà em rộng bao nhiêu mét vuông?) - big - большое, великие/велико
+
+Cao – tall, tallest - високая, высшее
+
+Ít (ctx: Quantität) - little / not much - немного
+
+Đáng yêu, dễ thương - cute - милый
+
+[Phủ/Như] lông tơ - fluffy – пушистая
+
+Đẹp - beautiful – красивая
+
+Xấu – ugly – не красивая
+
+Độc lập - independent (ctx: country) - независимо
+
+Phụ thuộc vào - depends on - зависит от
+
+(sự) Phúc tạp - (complexity) /complicated/complex - (слошность) /сложно
+
+Sự lịch sự - politeness – Вежливость
+
+Sự bất lịch sự - impoliteness – невежливость, невежливый
+
+Sự nghiệm túc - seriousness /serious - серьёзно / серьёзно / серьёзный
+
+ Sự kiên nhẫn - patience / patient - терпение / терпеливо
+
+Nổi tiếng - famous (person) - знаменитый/знаменитым, известный
+
+Phổ biến – popular -  Популярный
+
+Nguy hiếm (Sử nguy hiếm) - dangerous (danger) -  опасно, опасный (опасность)
+
+An toàn – safe, secure -  безопасно
+
+hạnh phúc - happy - счастливый
+
+Trung thực - honest - Честный
+
+Hài hước/niềm vui - funny -  смешно
+
+thân thiện - friendly – добрый
+
+Tự tin – self assured, selbstbewusst – верующий в свои силы
+
+[Tôi] tư hào [về bạn] - [I am] proud [of you] - гордый, я гордый (Я горжусь тобой)
+
+Sợ [hãi] - frightened – Испуганный
+
+Hay - cool, interesting - классно, приятно
+
+Dở, Kinh khủng - terrible -  ужасно 😱
+
+Tệ - bad – плоха
+
+Tốt, giỏi – good – хорошо
+
+Rẻ - cheap - дешёвый, дешевле
+
+Đắt (đắt nhất) - expensive (most expensive) - дорогой, дороже (самое дорогие)
+
+Cũ - old старый, старые
+
+Mới - new - новый
+
+Hôi - stinks, foul - ваняет
+
+Bẩn thỉu – dirty – грязный
+
+Hoàn toàn (đúng/sai) - absolutely (right/wrong..) - совершенно (права/неправа)
+
+Không điều kiện - unbedingt, aufjedenfall, absolutely – Обязательн
+
+Đột ngột, bỗng - suddenly - внезапно
+
+Lạnh - cold  - холодно
+
+Mát - cool - прохлодний
+
+Ấm - warm - тёплый
+
+Nóng - hot – жарко
+
+Tối - dark – тёмный
+
+Sáng - bright – яркий 🔆
+
+Khác - different - разные
+
+... - vulgar – Пошлый
+
+Đầy đủ (nhớ làm đầy đủ) – completly, genügend, vollständig -полный, делать что-то полностью (Не забудьте сделать это полностью)
+
+Kỳ dị - weird - странный
+
+Đặc biệt - etwas besonders - особенно
+
+Có chất độc - poisonous - ядовитый
+
+Mù - blind – слепой
+
+Bị ướt - wet – влажный, мокрый
+
+Nỗ lực, siêng năng – fleißig – старательный
+
+(Sự) siêng năng, chăm chỉ – diligent (dilligence) – (усердие) прилежный, старательный
+
+Thọng mình – intelligent, smart – умний
+
+Ấm áp - cozy – уютный
+
+Bao la – immens – Необъятной
+
+Khó tin — incredible, unglaublich —невероятно, невероятный
+
+Quyến rũ - Fesselnd, captivating – пленительно
+
+Lười biếng – lazy – ленивый
+
+kiên nhẵn (Sự kiên nhẫn) – Patient (patience) –терпящий (Терпение)
+
+Thật – real (not fake) – настоящий
+
+Cay – spicy – Острый
+
+Xong, tan – done – готово
+
+Khô – dry — сухой
+
+Bận – busy – занят
+
+Mở (ra/cửa) – open, to open – открыто 🔓
+
+Đóng (cửa) – closed – закрыть 🔒
+
+Đúng (Có đúng thế không?)  – Right, correct (is this true/right?) – правильно
+
+Sai - Wrong – не правильно
+
+Say - drunk – пяный
+
+Tỉnh táo - sober, nüchtern – трезвый
+
+Ngại ngùng – shy – застенчивый, стеснительный, робкий
+
+Tự tin (tôi không/chưa đủ tự tin nói tiếng Việt) – confident (I am not confident enough to speak vietnamese) – уверен (Я недостаточно уверен, чтобы говорить по-вьетнамски)
+
+Chắc chắn – assured, sure, certain – увереный
+
+Quan trọng - important – важный
+
+May mắn – luck, Glück – счастие
+
+Điên khùng – crazy – глупой
+
+Cổ điển – classic – Классический
+
+Hiện đại – modern – модна
+
+Hấp dẫn – attractive – Привлекательный
+
+Từ tế/[Rất]  tốt bụng - Kind, nice, nett – добрый, хороший
+
+
+
+Emotionen (эмоции) , Gefühle (чувства)
+
+Sự tham lam – Greed – Жадность, жадный
+
+Bình tĩnh, yên bình, thư giãn– calm, relaxed, peaceful – спокойный 😌
+
+Cáu giận, Giận Đỗi – angry – злой, Сердитый 😡
+
+ Xấu tính, ác – mean, fies, gemein – злой 😈
+
+Thất vọng (tôi thất vọng về bạn) – disappointed -  разочарованный (я разочарована в тебе) 😒
+
+Căng thẳng [Tôi bị căng thẳng] – stressed [I am stressed] -  стресс  [у меня стресс]
+
+Chán – bored – скучно
+
+Thoả mãn – satisfied – Доволен
+
+Lo lắng – worried  - озабоченно, обеспокоенный, неспокойно
+
+Lo lắng – nervous – нервный
+
+Ghen tị - jealous – ревнивый
+
+Hào hứng – excited -…
+
+Kính tởm – empört, shocked – потрясённый
+
+Đói – hungry – голодны
+
+Khát nước – thirsty -  пить охотно
+
+Bằng nhau (tôi thích cả hai bằng nhau) – equally (I like both equally) – одноко (мне то и другое нравится также)
+
+Tiện lợi  (Có điều khoá trong phòng tiện lợi) – convinient (it is convenient to have an AC in the room) -  удобна (Удобно эсли есть кондиционер в комнате )
+
+
+
+Zeit (thì giờ/Thời gian/время)
+
+Quá khứ - past - Прошедшее время
+
+Hiện tại – present - настоящее время
+
+Tương lai - future -будущее время
+
+Cái đồng hồ - clock, Uhr – часы
+
+Đúng giờ - on time -  точно
+
+Mãi, hoài, luôn luôn - always - всегда, каждый раз
+
+Đôi khi, thỉnh thoảng – sometimes/occasionally , manchmal/gelegentlich - иногда
+
+Thường xuyên - regularly - часто
+
+Thường xuyên hơn - more often - чаще
+
+Hiện tại - at the moment - сейчас
+
+Thông Thường - usually - обычно
+
+Thường [thường] - often – часто
+
+Thi thoảng, hiếm khi – rarely — редко
+
+Không bao giờ - never – никогда
+
+Chưa bao giờ - never ever – никогда
+
+Ngay [lập tức] (tôi gửi nó cho bạn ngay lập tức ) – immediatly (I will immediatly send it to you) – сразу, прямо сейчас (Я отправлю это вам прямо сейчас)
+
+Trước - in advance (im Voraus) - заранее
+
+Trước kia - ago - назад
+
+ … [đơn vị thời gian] - x [time unit] have passed – прошло (praschlo) Х [единица времени ]
+
+Trước khi - before (ctx: zeit) (I'll take a shower before breakfast) - до (я принимаю душ до завтрака)
+
+Trước khi - before (ctx: konjunktion, mit Intention) - прежде чем, перед тем как
+
+Lâu - long [time] - долго
+
+Sớm - at early, früh - рано
+
+Sớm hơn - earlier (ctx: this day) - поранше
+
+Gần đây - recently - недавно
+
+Trước đây - earlier [long time] – раньше, давно
+
+Muộn (Tôi về nhà muộn)/tý nữa/trễ – late (I came home late), later (I came home late) – поже, Поздно (я поздно пришёл домой)
+
+Sau khi - after (ctx: Zeit) - после, после того как
+
+Giây - seconds - секунда
+
+Phút - Minute - минут
+
+tiếng - stunde - час
+
+Ngày - tag - день
+
+Ngày cuối tuần - weekend - выходные
+
+Năm - year – год
+
+Thế kỷ - century – век
+
+Năm ngoài/qua - last year - прошлом года
+
+Tháng + 1 bis 12 - Januar bis Dezember
+
+Thứ hai, thứ ba, thứ tư, thứ năm, thứ sau, thứ bảy, chủ nhật - Mo bis So –  понедельник, вторник, среда, четверг, пятница, суббота, воскресенье
+
+Mùa - Season - времени года
+
+(mùa)   Xuân, hè, thu, đông - spring, summer, fall, winter - весна, лето, осень, зима
+
+Tháng - month - месяц
+
+Tuần - week - неделя
+
+Sau - next - следующий
+
+Sáng - morning – утра
+
+Ban ngày – day time – дня
+
+Bưởi chiều – afternoon - после полудня
+
+buổi Tối - evening - вечера
+
+Tối nay - tonight - сегодня ночью
+
+Ban/buổi đêm – night time – ночи
+
+Nửa đêm – midnight – полночь
+
+Giữa đêm – Middle of the night -среди ночи
+
+Hôm nay – today - сегодня
+
+Hôm qua - yesterday – вчера
+
+Ngày hôm kia – vorgestern, The day before yesterday - позавчера
+
+Ngày mai, ngày mốt - tomorrow - завтра
+
+Ngày kia – the day after tomorrow - послезавтра
+
+lúc X giờ - at X o'clock - в X часов
+
+Từ - since – с (с 2часов), уже, на (на 2 года)
+
+Tư bao/mấy giờ? -  since when? -  когда?
+
+Từ X đến/tới Ý - from X to Y - c X (gen von normalen Zahlen, s. Unten) до Ý (gen v. n. Z.) e.g с одного до трёх.
+
+Lúc 1 rưỡi - halb 2, half past one - в 1 час 30 минут, ab 2 (halb 2): в половине второго; третьего;.. (Infinitiv Ordnungszahl + ого: первого, второго, третьего, четвёртого, пятого, шестого, седьмого, восьмого, девятого, десятого, )
+
+4 giờ kém mười lăm – quarter to 4, viertel vor 4 – бес пятнадцати четыре
+
+Trong x giờ /phút - in x hours/min - черес х час/мин
+
+Vừa (mới) - just now, gerade eben, vor kurzem - только что
+
+Mỗi ngày - daily -  ежедневно, ежедневная
+
+Mỗi tuần / hàng tuần – weekly – Еженедельно
+
+Vào (vào sáng) - at, in (in the morning) - на, в
+
+Một lần nữa - again - опоть
+
+Thì, rồi xong - then - потом
+
+Lịch (tôi [vừa] có lịch  bận) – calender (I have a busy schedule)  – календарь (у меня нет времени)
+
+Hôm nay là ngày bao nhiêu? - which date is today? -  какое сегодня число?
+
+Hôm nay ngày X tháng Y – today is the xth Y (x day, Y month) – сегодня (Ordnungszahl Genitiv) (Monat Genitiv) первое марта, десятое февраля, двадцать третье августа. Genitiv, weil es der Xte DES Y ist (Y wiederum DES Jahres)
+
+[Vào] một lúc nào đó – irgendwann – когдо нибудь
+
+Đến 1,2,3,4,5, etc. giờ - bis 1, 2,3,4,5, etc. Uhr – до (gen normale Zahlen) час, двух, трёх, четырёх, пити, шести, семьи, восьми, девятьи,десятьи, одиннадцати, двенадцати час/часа/часов
+
+Ba giờ nam phút - 5 past 3 – пять минут  четвёртого (0 до 30: минут: именительном падеж, часы: Infinitiv Ordnungszahl + ого (родительный падеж von Ordnungszahlen), 30-59 наоборот: часы именительном падеж, минуты в родительном падеже s. “15 vor 4”)
+
+Bây giờ - now - сейчас
+
+Đồng thời – at the same time - В то же время
+
+Lần tiếp theo – next time – следущий рас
+
+Lần gần – last time -последний рас
+
+Lâu rồi (lâu rồi tôi không học tiếng Anh) – long time (I didnt study English for a long time) – Давно (я давно не учиил английский язык)
+
+Lâu lâu (lâu lâu cũng được) – once in a while (once in a while is okay)
+
+ Vào thời gian nào?, mấy giờ? - at what time? – восколько?
+
+Sắp (anh ấy sắp ăn bửa trưa, anh sắp làm xong việc rồi) – about to (he is about to eat lunch, he is about to finish his work) – собирается (Он собирается обедать, он заканчивает свою работу)
+
+Bình minh – sunrise – восход 🌅
+
+Hoàng hôn - sunset – закат 🌇
+
+
+
+
+
+Zahlen (số đếm/numbers/цифры/ordinal/ordnungszahlen)
+
+Bao nhiều?/bao mấy (ctx: mấy wenn Anzahl bis 12) – how much/many? – сколько?
+
+Một hai ba bốn/tư năm sáu1 bảy tám chín mươi - 1 bis 10
+
+100 - một trăm – сто
+
+101 — 109, 201 — 209, etc. —Một trăm linh(north VN) /lẻ (South) 1—9
+
+Nghìn —thousand —тысяч
+
+1001 —một nghìn linh/lẻ một
+
+Triều - million – миллион
+
+Một phần tư - quarter – четверть
+
+Một nửa - half – половина
+
+Đầu tiên (đầu) – first (first time) - первый, сначала (первый раз)
+
+Cuối cùng, lần cuối, qua - last - последней
+
+Thứ + Zahl - Alle Ordnungszahlen - первыи, второй, третий, четвёртый, пятый, шестой, седьмой, девятый, десятый, одиннадцатый,...
+
+Lần - time, mal, eg. Is this the first time - рас
+
+Lại - again - опять
+
+Khoảng - approx, ca. – примерно, около
+
+Nhiều - much, many - много
+
+Một vài - a few, some, einige, ein paar – несколько
+
+Một số - a few, some – несколько
+
+Một chút, hơi - ein bisschen, a bit – немного
+
+nhiều nhất, Phố biển nhất, thông dụng nhất - Am häufigsten / the most common - самые распространённые
+
+Ít hơn, đỗ - less – менче
+
+Ít nhất - the least (the least you can do), das mindeste (das mindeste was du tun kannst) - Самое меньшее  (Самое меньшее, что вы можете сделать)
+
+Ít nhất - at least, wenigstens - по крайней мере (по крайней мере, я хочу лететь в Россию)
+
+Phần lớn (người) - the most (people) – Большинство людей
+
+Rất ít (người) - very few (people) – мало кто , очень мало
+
+
+
+
+
+(Prä) Positionen
+
+Ở/tại (ctx: genaue Ortsangabe von nicht kleinen Orten z. B. Uni) - in/at - в
+
+Ở đây - here (auch: hier hin) - здесь, сюда
+
+Đó - there (auch: dort hin) - туда
+
+Ở (bên) ngoài - outside - на улице
+
+Trong này - in this  в этом
+
+Xa - far - далеко
+
+Ở phía sau - behind - за
+
+Ở phía trước - in front of, before (Ort) – перед
+
+[Rẽ] phải – right – права
+
+[Để] trái – left – лево
+
+Bên phải - on the right [side] -  справа
+
+Bên trái - on the left [side] -  слева
+
+Ở giữa - in the middle/centre – в центре
+
+cạnh bên nhau (Họ đứng cạnh nhau) – side by side, Nebeneinander (they are standing  side by side) – рядом, рядом друг с другом (Они стоят рядом друг с другом)
+
+Chỗ, nơi - ort, place - место
+
+[ở] trên - on, auf - на
+
+Trên - over, über - над
+
+Dưới - under - под
+
+Trong - in - в
+
+Đây - here - здесь
+
+Này - that (one) – этот
+
+Ở gần (họ sống ở gần Hà Nội) – in the near of(they live in the near of Hanoi) – Недалеко от, влизи, рядом (они живут недалеко от ханоя)
+
+
+
+Kontinente, Himmelsrichtungen, Richtungen,
+
+Trái Đất – earth/planet – земля 🌏
+
+Thế giới - world – мир
+
+Châu Mỹ - America -
+
+Châu phi – africa -
+
+Châu Á - asia -
+
+Châu âu - Europe -
+
+Châu nam cực – Antarctica -
+
+
+
+Miền bắc – North Việt Nam – северный VN
+
+Miền trung – Center Việt Nam - центр VN
+
+Miền nam – South Việt Nam – Южный VN
+
+Miền dông - East Việt Nam - восточный VN
+
+Miền tây - West Việt Nam - Западный VN
+
+
+
+Hương tây - west - запад
+
+Hương nam - South - юг
+
+Hương đông - east - восток
+
+Hương bắc - North – север
+
+
+
+
+
+
+
+Reisen, Transport, Distanzen
+
+Vé máy bay – flugticket, flight ticket - билет на самолёт
+
+Sang (sang Đức) / du lịch – to travel (travel to germany) – путешествовать (путешествия в Германии, Поехать в Германию) / путешествия
+
+Xe máy – moped – Мотоцикл
+
+Xe máy bay – airplane - самолёт
+
+Xe ô tô – car -  машина 🚙
+
+Va chạm (tôi đã có va chạm. Tôi đã xước xe ô tô tôi) -  incident (I had an incident where I scratched my car) – Инцидент  (у меня Инцидент / случай. Поцарапал свою машину)
+
+Tai nạn -  accident – авария
+
+Nhà chỗ/gửi xe -  parking lot / building -  Автостоянка, гараж
+
+Tàu điện -  train/Metro -  поезд / метро 🚇
+
+Chuyến bay – flight -  Полёт
+
+Chỗ ngầy – seat, Sitzplatz – сиденье 💺
+
+Vé giá bao nhiêu – how much is the ticket? – сколько стоит билет 🎫?
+
+Khứ hồi (vé máy bay hai chiều) - round trip, Hin- und Rückflug -
+
+Tôi có thể mua vé xe bus ở đâu? – where can I buy a Bus Ticket? – где я могу купить билет на автобус?
+
+Mất bao lâu để đến đó? – how long does it take in order to get there? – сколько времени занимает/займёт туда добраться/ехать?
+
+Nếu em bay từ Hà Nội đến Thành Phố Hồ Chí Minh thì em cần khoảng 2 giờ - летит с Ханой до HCM займёт 2 часа.
+
+Thành phố Hồ Chí Minh cách Hà Nội bao xa : khoảng 1500 (một nghìn năm trăm kilo mét)  km/cây
+
+Khách du lịch – tourists – туристов
+
+Giao thông – traffic – движение
+
+Tắc đường/ Kẹt xe- traffic jam – пробка
+
+[Buổi] thăm quan – sightseeing Tour – тур, путешествие
+
+Dẫn  (Sinh viên học sinh dẫn tour thăm quan miễn phí) – to lead /guide (Students guiding free tours)
+
+ Hộp – box -  Коробка 🗃
+
+ Khách – guest -  гостя
+
+
+
+
+
+Länder, Städte, Sprachen
+
+Nước – country – страна
+
+Văn hoá – culture – Культура
+
+Quê – Heimat – родная страна, родина
+
+[Người] dân địa phương – locals – родное, местные
+
+Cờ - flag – Флаг
+
+Ngôn ngữ - language – язык
+
+Giọng nói – accent – акцент
+
+Nước ngoài – foreigner – иностранный, иностранец
+
+Quốc gia/đất nước - country/nation - страна
+
+Thủ đô - capital – столица
+
+Tỉnh – province, Bundesland – земля
+
+Thành phố - town/city - горад
+
+Lân cận – neighbouring cities – окрестности
+
+Đức - Germany, german -  Германия
+
+Pháp - France/french - Франция
+
+Tây ban nha - Spain - Испания
+
+Bồ Đào Nha - Portugal 🇵🇹 - Португалия
+
+Mỹ - America - Америка
+
+Ân Độ - India - индия
+
+Hà lan - Netherlands /Dutch -Голландия
+
+Úc - Australia - Австралия
+
+Hàn quốc - korea - Корея 🇰🇷
+
+Nhật - Japan - Япония 🗾
+
+Nga - 🇷🇺 Russia - Россия
+
+Thụy Sĩ - Swiss - Свейцариа 🇨🇭
+
+
+
+Weather (Thời tiết,trời/Weather/пагода)
+
+Sấm sét – Donner, thunder – гром ⚡
+
+Tia chớp – blitz, lightning – молния 🌩
+
+Bão – Storm – гроза ⛈
+
+Giông – Gewitter - гроза
+
+trời (trời trong) – sky (clear sky) - небо/небесо (чистое небо/ безоблачное небо)
+
+Nhiều mây – viele Wolken, bewölkt, cloudy  - облачно ☁
+
+Lửa – fire – огонь 🔥
+
+Nước – water – вода 💧
+
+Nóng, ấm – hot, warm – Жарка 🥵
+
+Quạt – Fan, Ventilator – вентилятор
+
+Điều hòa, máy lạnh – air conditioning – кондиционер
+
+Nhiệt độ là bao nhiều? - what’s the temperature? – Какая температура?
+
+Ở Dortmund nhiệt độ là âm 15 độ - In Dortmund it’s minus 15 degrees – в Дортмунде минус 15 градусов
+
+Tuyết rơi, Bông tuyết - snowfall, snowflake – снегопад, снежинка ❄
+
+Mát – kühl, chill – прохладно
+
+Băng – ice – лед
+
+Sương mù – Nebel, fog -  туман
+
+Mặt trời, nắng – Sonne, sunny -  Солнечно
+
+Mưa, lương mưa – Rain, rainfall – дождь
+
+Trời mưa -  it’s raining – дождь идёт
+
+Trời tuyết - it’s snowing - снег идёт / подает
+
+Dự báo/ báo cáo thời tiết – weather forecast – прогноз погоды
+
+Gió/gió trời – Wind, windy – Ветреный (сегодня ветренно)
+
+Ô – umbrella – зонт ☔
+
+
+
+
+
+Fragen und alles Dazugehörige (VN: Nomen + Verb + không?)
+
+[Câu] trả Lời, đáp án (ctx: Aufgabenantwort) - [the] to answer - [ответ], ответить
+
+Câu hỏi - question - вопрос
+
+Hỏi - to ask - просит, задать вопрос (я задам)
+
+Câu đáp án – the (right) answer, solution – ответ
+
+Đâu - where - где
+
+Làm/như thế nào - how - как
+
+Nào - which - какой
+
+Nếu - if - если
+
+Bao nhiều tuổi - how old – сколько тебе лет
+
+Bạn [đến] từ Đức, phải không? – you are from Germany, correct? -  ты из Германии, это правильно?
+
+(away) Bao xa (Place1 cách Place 2 bảo xa? > Place1 cách Place2 500 cây/km) - how far (away) - Как далеко (как далеко Place1 от Place2? > Берлин находится в 500 км от Кельна. )
+
+Mất bao lâu (từ Place1 đến Place2 mất bao lâu?) - how long does it take from Place1 to place 2? - сколько времени занимает дорога из Place1 в Place2?
+
+Bạn ăn cơm không? - möchtest du Reis essen?
+
+Hast du Reis gegessen? Bạn ăn cơm chưa?
+
+Thật ư không? - really? - Действительно?, правда?
+
+Bạn đến từ đâu / bạn từ đâu đến ? - where are you from? - откуда ты?
+
+Bạn tên là gì? - what is your name? - как тебя завут?
+
+Bao nhiêu - how many - сколько
+
+Khi nào - when - когда
+
+Tại sao - why - почему, зачем
+
+Bao lâu – how long? – как долго
+
+Khi nào bạn rảnh/có thời gian [rảnh] không? tôi rảnh/có thời gian rảnh x – when are you free? I am free on x - Когда ты свободна/Свободен? Я свободен в x.
+
+
+
+Farben (màu/color/цвет)
+
+Hồng - pink - розовый
+
+Vàng - yellow – жёлтый
+
+Bạc - Silber – серебрó (Metall), серéбряный
+
+Vàng – Gold, goldener, goldene – зóлото, золотóй, золотые
+
+… - Smaragd (Farbe) – изумруд (изумрудный)
+
+Xám  - gray – серый
+
+Trắng – white – белый
+
+Đen -  Black – чёрный
+
+Nâu - Brown – коричневый
+
+Xanh – green – зелёный
+
+Đỏ - red – красный
+
+Xanh da trời -  blue – синий
+
+Tím – purple – Фиолетовый
+
+
+
+
+
+Möbel, Zimmer, Wohnung, Haus
+
+Miếng đất (miếng đất cháu mua ở đâu. Cô chỉ cho cháu được không?) – property, Grundstück -  Имущество
+
+Căn hộ/nhà - Apartment – квартира 🏠
+
+Tầng – floor, etage – этаж
+
+Cửa – door – двер 🚪
+
+Cửa sổ - window – окно
+
+Dưới nhà – downstairs - Вниз по лестнице, в нижней этаж
+
+Ban công -  balcony -  балкон
+
+Bàn - table - стол
+
+Ghế - chair -  стул 🪑
+
+Giường – bed – кровать 🛏️
+
+Đồ trải giường – beddings – пастель
+
+Lò nướng – oven – духовка
+
+Thang – ladder – Лестница
+
+Búa – hammer -  молоток 🛠
+
+Tủ lạnh – fridge -  холодильник
+
+Hút bụi - to vacuum - пылесосить
+
+
+
+Kleidung
+
+Thử mặc – to try out clothes, anprobieren – попробовать
+
+Mặc (mặc áo (tshirt), Pulli, Hose), đeo (đeo kính (glasses)), đội (đội mũ (hat)), quàng (quàng khăn (scarf)) – to wear – носить (я ношу футболку, кофту, штаны, очки, шарф)
+
+Áo mưa – rain coat – дождевик
+
+[(mã) vùng bưu điện chau sagt das ist falsch.es bedeutet plz] -  zipper -  молния, замок
+
+Bộ đồ tắm, đồ bơi-  swim suit – купальник
+
+Kính – glasses – очки
+
+Nhẫn – ring – кольцо 💍
+
+
+
+
+
+Arbeit, Berufe
+
+sự nghiệp - career - карьера
+
+nghề nghiệp/công việc - profession - профессия
+
+Công ty – company, Firma – Компания, фирма
+
+Văn phòng – Office – офис
+
+Người đi làm, Nhân viên – worker, angestellte – рабочий, работник
+
+Đồng nghiệp– colleague – Коллеги
+
+Tiền lương – salary, Gehalt, Lohn – Зарплата
+
+Nghỉ giải lao – break/Pause -  пауза, перерыв
+
+[lá] thư – letter, Mail -  письмо ✉
+
+Giấy – paper -  Бумага
+
+Danh sách – a list – список 📃
+
+Nghệ sĩ - artist – художник
+
+Đầu bếp - cook, Chef – повар
+
+Đạo diễn - director - дирижер
+
+Nhà khoa học - scientist - учёные
+
+Phục vụ bàn/bồi bàn - waiter /waitress - официант, официантка
+
+Kiến trúc sư -  architect – архитект 🏛
+
+Bác sĩ - doctor – врач
+
+Nha sĩ – dentist – зубной врач / дантист
+
+Y tá – nurse – медсестра
+
+Nhạc sĩ - songwriter - автор песни
+
+Luật sư - lawyer - юрист
+
+Cảnh sát - police officer – полицейский
+
+Nhà toán học – mathematician – Математик
+
+Hàng cắt tóc (ctx: Norden) / [tiệm] Hớt tóc (ctx: Süden) – hair dresser, Friseur – парекмахер (Сходить в парикмахерскую)
+
+Tôi làm [nghề = beruf] kỹ sư phần mềm – I work as a Software Engineer – Я работаю программистом
+
+kỹ sư - engineer - инженер
+
+Ca [Làm việc] đêm – night shift – ночная смена
+
+Ca [làm việc] tiếp / ca ngày – early, normal shift -первая, вторая смена
+
+
+
+Gặp [gỗ] (tôi rất vui được gặp bạn) - to meet (It’s nice to meet you) – встречаться (рад встрече)
+
+Cuộc họp – meeting - совещание
+
+Phiên dịch – Translate -  переводчик
+
+Trở thành – to become – статья {perf} , становится {imperf}
+
+
+
+Essen, Trinken, Kochen
+
+Phần – Portion -  порциа
+
+Nguyên liệu (tôi phải tìm nguyên liệu trong bếp tôi) – ingredients (I have to find the ingredients in my kitchen) – ингредиенты (ме надо найти ингредиенте в кухне)
+
+Bữa ăn – die Mahlzeit, meal – еда
+
+Thức ăn/đồ ăn – food – еда
+
+Thử ăn – to try (to try food) - попробовать поесть
+
+Ăn chay – vegetarian – вегетарианский
+
+Thuần chay – vegan – веган
+
+Siêu thị - Supermarkt – магазин
+
+Gỏi cuốn - summer rolls - ...
+
+Nước mắm - fish sauce - ...
+
+Nước chấm/sốt – sauce – соус
+
+Món ăn - Gericht (ctx: essen) - блюда
+
+Nấu [thức ăn] - cooking [food] - готовить еду
+
+Bữa sáng – breakfast – завтрак
+
+Bữa trưa – lunch – обед
+
+Bữa tối - dinner - ужин
+
+Cơṃ - Rice - рис
+
+Gạo - uncooked rice - не вариый пис
+
+Đồ chiên/rán - fried dishes - жареные блюда
+
+Nướng - grilled - жареный
+
+Nêm/thêm/ướp (ướp ớt, tiêu cho món thịt chiên) – to season, würzen [to season the meat with paprika and Black pepper] – приправить [Приправить мясо паприкой и перцем]
+
+gia vị - Seasoning, herbs - приправа
+
+Muối – salt – соль
+
+Mặn – salty – Соленый
+
+Nhạt – bland, fad - ….
+
+Tiêu – Black pepper – перец
+
+Đường - sugar - чахар
+
+Ngọt – sweet -  сладкий
+
+Nước tương / xì dầu – soya sauce – сой соус
+
+Thịt – meat – мясо 🥩
+
+Cánh gà – chicken wings -  крылышки
+
+Khoai tây chiên – french Fries - картофель фри
+
+Rau - vegetables – овощи 🫑🧅🧄🌽🥦🥬
+
+Thức ăn lạnh mạnh – healthy food – эда для здоровые
+
+Salat, Xà lách, rau trộn  (ctx: Salatgerichte fangen oft mit gỏi an) – Salad – салат 🥗
+
+Bông cải xanh - Broccoli – брокколи 🥦
+
+Cải thảo – Chinakohl, china(?) cabbage – Капуста
+
+Nấm – mushroom – гриб 🍄
+
+Dưa chuột (ctx: miền Bắc)/ Dưa leo (ctx: miền Nam) -  cucumber -  огурец [pl. Огурцы]
+
+Hoa quả (ctx: miền bắc) / trái cây (ctx: miền nam) - fruit, Obst – фрукты🍏🍐🍊🫐🍓🍇
+
+Chanh – lemon – лимон 🍋
+
+Chua – sour -  кислый
+
+Xoài – Mango – манго
+
+Đưa hấu – water melon – арбуз 🍉
+
+Dừa – coconut – кокос 🥥
+
+Mật ong – honey – мед 🍯
+
+Loại trái cây – Obstsorten – фрукты
+
+Rau mù/ngò – Koriander, cilantro – кориандр
+
+Rau thơm – herbs – травы, укроп
+
+Ngò rí – parsly, Petersilie – Парсли, Петрушка
+
+Bạc hà – mince – мята
+
+Hả Sản – sea food – морепродукты
+
+Lẩu – hotpot – hotpot
+
+Tôm viên – shrimp ball – креветочные шарики
+
+Công viên – Park – парк
+
+Ớt cay - chilli —перец Чили
+
+Bơ lạc/lạc từ (ctx: miền bắc) – peanut butter  - арахисовое масло🥜 🧈
+
+Lạc (ctx: miền Bắc)/Đậu phộng/đậu phụng (ctx: miền Nam) – peanut — арахис 🥜
+
+Tỏi — garlic —чеснок 🧄
+
+Thịt ba rọi – bacon – Бекон, сала
+
+Giăm bông – ham – ветчина
+
+Băm (tỏi băm)  – chopped (chopped garlic) - нарезанный (нарезанный чеснок)
+
+Chặt - To chop – нарезать
+
+Chai - bottle – бутылка 🍶
+
+Bát - bowl – чашка 🍵
+
+Ly/Cốc/ Tách - cup, glas, Becher, Glas – чашка
+
+Thủy tinh – smth made from glas – Стеклянная
+
+Đĩa – plate – тарелка 🍽
+
+Dĩa/Nĩa - fork – вилка
+
+Thìa - spoon -  лошка
+
+Đũa - Stäbchen – палочки 🥢
+
+Khăn ăn - servierten – салфетки
+
+
+
+Tiere (животные, động vật)
+
+nuôi - pet - домашние животные
+
+Con hổ - Tiger – тигр 🐯
+
+Con cua – crab – краб 🦀
+
+Con quạ – crow – ворона, вороны
+
+
+
+
+
+Hobby (sở thích/хобби), Freizeit (rảnh), Sport (môn thể thao), Kultur (văn hoá)
+
+Nghe nhạc - listen to music - слишать музыку
+
+Thế loại - genre - жанр (loại = Art)
+
+Bài hát – song – песна
+
+Nghệ thuật – Kunst, Art – искусство
+
+Bút [chì] – Pen – корондаш 🖋
+
+Múa - to dance, dancing - танцевать
+
+Bơi - to swim – плавать 🏊
+
+Câu cá – to fish – рыбачить (Рыбалко)
+
+Buổi tiệc, dự tiệc – Party, partying – вечеринка
+
+Bóng đá — Football, soccer – футбол ⚽
+
+Bảo tàng - Museum -  музей
+
+Máy ảnh -  camera -  камера📸
+
+Quyển Nhật ký – diary -  дневник
+
+Rạp chiếu phim – cinema -  кинотеатр 📽
+
+Satzanfänge
+
+Theo (theo bố tôi) – according to, gemäß (according to my father) - по словам (По словам моего отца)
+
+Nhân tiện – by the way– кстати
+
+Hơn nữa – in Addition, Des Weiteren - Кроме того
+
+Thực ra/ Thật ra - actually / in fact / the thing is - дело в том, что
+
+Không công bằng khí X - It’s not fair thật X – не справедливо, что X
+
+
+
+
+
+Slang, Gängige Sätze
+
+Giữ gìn sức khỏe bạn – Take care of your health -  смотри о своей здоровье
+
+Tại sáo bạn nói như vậy – why are you talking like that – почему ты так говоришь
+
+Cố lên – come on – давай
+
+Tối không được X – I am not allowed to do X – мне нельзя X.
+
+Bạn thức khuya quá – you are staying up late – Вы ложитесь/ты ложишься/он ложиться спать слишком поздно
+
+Chính xác – exactly – ясно
+
+Tôi không sao đâu – I´m fine – Я в порядке
+
+Bạn vẫn x? (em vẫn học tiếng nhật?) – dont you x anymore? (dont u learn japanese anymore) – ты больше не X (Ты больше не учишь японский?)
+
+Hả? Bạn nói cái gì đấy? - what are you talking about - какая тебе (noun)
+
+Nhanh lên - hurry up - торопиться, поторопись
+
+Cô ấy/anh ấy đứng, tôi đứng - she/he is right, you are right - он/она права, ты прав
+
+Thứ nhất, thứ hai, thứ ba,... - first of all, secondly, thirdly - во-первых, во-вторых, во-третьих
+
+Chúc các bạn x - I wish you x - я желаю тебе x
+
+Đợi/chờ anh [với] - wait for me - жди меня
+
+Theo/với tôi - in my opinion - По-моему
+
+Em nghĩ (như thế nào/ là gì) - (what/who/... Is) in your opinion - (что/кто) по-твоему
+
+Ý anh là - I mean - я имею в виду (иметь, heißt etwas nicht Physikalisches zu besitzen)
+
+Không biết - i don't know / have no idea - Понятия не имею
+
+Tôi có một ý tưởng/kiến, tôi có cách – i have an idea - у меня eсть идея
+
+X có tồn tại không? - does X exist? - Есть ли X
+
+Bạn ăn được - can you eat - ты мощешь
+
+Còn bạn (thì sao) - and you / and your's - а у тебя?
+
+Bạn có thể X? - can you X? - ты можешь / ты умеешь X?
+
+Bạn cao bao nhiêu? - how tall are u? - какой у вас рост?
+
+Tôi đến từ X - i am from X - я из X
+
+Chẳng có gì xảy ra - nothing happened - ничего не произошло
+
+Bạn có thể nói cho tôi... - could you tell me - не подскажите
+
+Chào mừng - welcome (to) - добро пожаловать (в)
+
+Ngon miệng, xin mời - Guten Appetit - приятного аппетита
+
+... - keep secret, (sollte es) geheim halten - (можно было) оставить в тайне
+
+Ví dụ - for example - на пример
+
+Nếu bạn hỏi tôi - if you ask me - как по мне
+
+Bạn thích ăn gì nhất? - what is your favorite food ? - какая твоя любимая еда ?
+
+... - does the weather has an effect on your mood? - Погода влияет на твоё настроение ?
+
+X Việt tắt của Y - X is short for Y - Х означает Y
+
+Tôi Mới/vừa đến - just arrived - только что приехал
+
+Rất tiếc là không (tôi không có thời gian) - leider nicht, nein sorry - извини, нет
+
+Em buồn ngủ chưa? - are you sleepy? - ты хочешь спать? Тебе пора спать?
+
+vô tình (Tôi đã chặn bạn một cách tình cờ) - by accident (I blocked you by accident) -случайно (я заблокировал тебя случайно)
+
+Tôi đang đi làm – I am going to work – я иду на работу
+
+Tôi chỉ đùa thôi  - I was just kidding – Я просто пошутил
+
+đảm bảo hay luôn – good for sure – хорошо конечно
+
+có một số thú vị - viel Spaß, have some fun веселись
+
+Cả ngày - the whole day – весь день
+
+Thử làm cái gì đó – to try to do something -попробовать делать что-то
+
+Basel ở bên Thụy Sĩ – Basel is (located) in swiss – базел находится в Швейцарии
+
+Càng x, càng x (càng lớn tuổi, tôi càng mất hứng thú với nó) – the x, the x (the older I got, the more I lost interest in it) – чем x, тем x (чем старше я становился, тем больше я терял интерес к этому)
+
+Anh lớn/nhỏ hơn em 6 tuổi – i am 6 years older/younger than you – я старше тебя на 6 лет / я на 6 лет моложе тебя
+
+Thế nào cũng được – alles ist mir recht (Antwort auf was willst du essen?) – мне все равно
+
+X chẳng có ý nghĩa gì cả - x ist sinnlos, there is no point in x – нет смысла x
+
+Hơn thế nữa – more over, vor allen Dingen – Более того
+
+
+
+Redewendung
+
+thất bại là mẹ thành công - the failure is the mother of the success - Неудача мать успеха
+
+... - thank God - Слава богу
+
+Tôi trêu đùa bạn - you are making fun of me - ты издеваешься надо мной
+
+Liên quan gì đến tôi - what does it have to do with me - при чём тут я / А я при чём
+
+để đề phòng - just in case - на всякий случае
+
+Tôi nghĩ - I was under the impression - мне показалось
+
+Thể nào - no wonder - неудивительно
+
+Nhiều khả năng, сó lẽ - probably - скорее всего, наверное
+
+Gì cũng được - whatever - мне всё равно
+
+Đúng vậy - that's right - это провилно, верно
+
+Tất nhiên rồi, Vâng đương nhiên - of course - конечно
+
+Không có hứng - to be in a bad mood - быть не в духе (я сегодня не в духе)
+
+Theo như tôi biết - as far as i know - на сколько я знаю
+
+Nhìn đi! Thấy chưa! - Look what’s Happening (negativ Kontext) -посмотри что творится
+
+Tối đặc biệt thích – i really like – Мне особенно/очень нравится
+
+Đó là về -it’s about – это насчёт
+
+… - (jemand) von euch – из вас
+
+Tên tôi là xzy – my name is XYZ – меня зовут xyz
+
+Tôi XYZ tuổi – im XYZ years old – мне XYZ год/года/лет
+
+Hẹn gặp lại – see you again – пока
+
+Mau khỏe nhé - get well soon – скорейшего выздоровления
+
+Ăn nói cho cẩn thận - watch your mouth – следи за своим языком
+
+… - it happens - с кем не бывает / вывает
+
+Bạn tới đây lần đầu à? – are you here for the first time? – Вы здесь в первый раз?
+
+Bớt cho tôi – lower price please – очень дорого , по меньше пожалуйста
+
+Chính xác (chín xác hơn tôi sống ở miền tây) -  to be more precise – быть точным (Если быть точным, я жил на Западе)
+
+
+
+
+
+
